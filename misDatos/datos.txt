@@ -1,0 +1,7 @@
+Nombre:Nicolas
+Apellido:Seoane
+Altura:1.66
+Edad:17
+Peso:64
+colorPreferido:azul
+d.n.i:47512949 
